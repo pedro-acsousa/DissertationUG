@@ -1,0 +1,23 @@
+The non-destructible gameobject with the DDA intelligence values is created in the MainMenu. 
+ALWAYS ensure the game starts from the MainMenu Screen so the DDA values are attributed to the default values.
+Saving the DDA values is very self-explanatory, however, please verify if the username is entered in the correct textbox.
+
+
+WORDS GAME:
+Please ensure that the mode is selected.
+The word that needs to be guessed can be seen on the debug logs and is the one before the JSON data debug logs
+All answers must be made in lowercase
+
+MATHS GAME:
+All answers can be approximated to the integer, one or two decimal places
+Work out the calculation and enter the value in the textbox
+Any decimal points shouls be separated by a dot "."
+
+SHAPES GAME:
+All shapes are movable with a left-click and drag motion
+All shapes can be selected (deleted) with a right click of the mouse
+All the shapes must be found in the time limit
+More shapes can spawn at 50+ intelligence
+Shapes can overlap
+Shape type to identify is present on the lower-right corner as "Shape X to identify"
+
